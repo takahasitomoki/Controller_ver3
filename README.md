@@ -1,0 +1,2 @@
+# catchrobo_controller
+コントローラだけのサンプル
